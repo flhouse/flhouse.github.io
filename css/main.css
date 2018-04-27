@@ -788,6 +788,18 @@ footer {
 		font-size: 14px;
 	}
 
+	.flex {
+		position: relative;
+		height: 200px;
+		width: 300px;
+		margin: 10px;
+	}
+
+	.flex img{
+		height: 200px;
+		width: 300px;
+	}
+
 }
 
 /* Custom, iPhone Retina */
@@ -804,6 +816,18 @@ footer {
 	.toggle-mnu {
 		right: 30px;
 		top: 80px;
+	}
+
+	.flex {
+		position: relative;
+		height: 200px;
+		width: 250px;
+		margin: 10px;
+	}
+
+	.flex img{
+		height: 200px;
+		width: 250px;
 	}
 
 }
